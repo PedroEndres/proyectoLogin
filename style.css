@@ -191,7 +191,7 @@ a:visited {
 
 @media screen and (max-width: 455px) {
   .section-container {
-    height: 65vh;
+    height: 70vh;
     width: 90vw;
     gap: 0;
   }
